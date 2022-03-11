@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CHALLENGE_1</string>
+    <string name="Hint">Cari layanan, makanan, dan tujuan</string>
+    <string name="price"><b>Rp 109.048</b></string>
+    <string name="desk_riwayat">klik dan cek riwayat</string>
+    <string name="text_bayar">Bayar</string>
+    <string name="text_isi_saldo">Isi Saldo</string>
+    <string name="eksplor">Eksplor</string>
+    <string name="text_goride">goRide</string>
+    <string name="desk_gocar">goCar</string>
+    <string name="gosend">goSend</string>
+    <string name="gofood">goFood</string>
+    <string name="others">Lainnya</string>
+    <string name="cekin">Check In</string>
+    <string name="gopulsa">goPulsa</string>
+    <string name="gomart">goMart</string>
+    <string name="desk">193 XP lagi ada Harta Karun</string>
+    <string name="text_one">Harta Karun bentar lagi hilang</string>
+    <string name="desk_gojek">Akses Cepat</string>
+    <string name="voucher">Ada voucher nganggur, nih</string>
+    <string name="text_restauran">Restauran terdekat</string>
+    <string name="paragraf">Festival idaman perempuan!</string>
+    <string name="paragraf_two">Temukan kebutuhan cantik-mu hemat pakai Go-pay\n dengan cashback 50%. Klik!</string>
+</resources>

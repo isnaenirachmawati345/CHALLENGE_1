@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/CHALLENGE_1/app/src/main/res/layout/activity_main.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/arrow.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/baground.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/bottom_profile.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/frame_restauran.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/frame_top.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/frame_voucherone.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/goclub_view.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/gopay_bgone.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/panah.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/profilr_botton.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/promo_bottom.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/search_btn.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/drawable/shape_star.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/menu/bottom_navbar_gojek.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Gojek/app/src/main/res/menu/btn_chat_24.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
